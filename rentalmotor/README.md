@@ -1,7 +1,6 @@
-LARAVEL 2020-D-G7 , Rental Mobil.com\
+LARAVEL Rental Motor
 
-1.Reynaldo Edwin Pratama 2.Wiwit Aulia Rahman  3.Fajar Aji Gilang  4.Januario KusGunaldo
-
+Dhimas Reza Afdiat 
 Langkah Install Project :
 
 git clone "https://github.com/mirza-alim-m/laravel2020-D-G3"
